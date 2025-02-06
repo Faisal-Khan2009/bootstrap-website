@@ -1,0 +1,86 @@
+
+body {
+    background-image:  linear-gradient(to right,#f8cdda , #1d2b64 ) ;
+}
+
+.navbar {
+    background-image:  linear-gradient(to right,#f8cdda , #1d2b64 ) ;
+}
+
+
+.carouselslide {
+    margin-top: 50px;
+    justify-items: center;
+    border: solid black 5px ;
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row;
+    background-image:  linear-gradient(to right,#f8cdda , #1d2b64 ) ;
+    margin-top: 200px;
+}
+
+.card {
+    margin-top: 10px;
+}
+
+.pic-container {  
+    display: flex;                
+    justify-content: center;      
+    align-items: center;        
+    height: 100vh;
+    flex-wrap: wrap;        
+}  
+
+.cod {
+    color: #f8cdda;
+    font-family: "Coda", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 70px;
+}
+
+.dis {
+    color: #1d2b64;
+    font-family: "Playwrite GB J", serif;
+    font-optical-sizing: auto;
+    font-weight: 100px;
+    font-style: normal;
+    font-size: 70px;
+}
+
+.container-footer {
+    margin-bottom: 0px;
+}
+
+.container-hero {
+    background-color: whitesmoke;
+}
+
+.about-para {
+    font-family: "Playwrite GB J", serif;
+    font-optical-sizing: auto;
+    font-weight: 100px;
+    font-style: normal;
+    font: 40px;
+    border: solid black 5px ;
+    border-radius: 20px;
+    text-align: center; 
+    background-color: white;
+    margin-left: 20px; 
+    margin-right: 20px;
+    padding: 20px;
+}
+
+.form {
+    padding: 150px;
+    padding-top: 20px;
+}
+
+.hori {
+    border: solid black 5px;
+    box-shadow: 0px 10px 10px black;
+}
